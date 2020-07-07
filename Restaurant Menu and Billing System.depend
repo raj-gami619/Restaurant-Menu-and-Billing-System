@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1479952020 source:c:\users\hp envy\documents\restaurant menu and billing system\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<windows.h>
+	<time.h>
+	<conio.h>
+
+1494403157 source:c:\users\hp envy\documents\c projects\restaurant menu and billing system\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<windows.h>
+	<time.h>
+	<conio.h>
+
